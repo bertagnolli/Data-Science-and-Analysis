@@ -5,3 +5,4 @@
 
 ### ML and Neural Networks
 - [SVHN Digit Recognition](https://github.com/bertagnolli/Data-Science-and-Analysis/tree/main/SVHN-Digit-Recognition): Trialing a series of ANN and CNN for object recognition of The Street View House Numbers.
+- [CNN For Human Emotion Recognition](https://github.com/bertagnolli/Data-Science-and-Analysis/tree/main/Facial%20Recognition%20CNN): Trialing various different custom and pre-trained CNN models for facial emotion recognition.
